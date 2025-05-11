@@ -38,7 +38,7 @@ const Skills = () => {
         </div>
         <div id="logoHover">
             <img src="/techstacklogos/react.svg" className="img-fluid" style={{"height": "100px"}} />
-            <p className="fs-5">React.js</p>
+            <p className="fs-5">React</p>
         </div>
         <div id="logoHover">
             <img src="/techstacklogos/redux.svg" className="img-fluid" style={{"height": "95px"}} />
