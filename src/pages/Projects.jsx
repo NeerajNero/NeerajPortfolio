@@ -65,7 +65,7 @@ const Projects = () => {
     <div className="col-md-8">
       <div className="card-body">
         <h5 className="card-title">CRM TOOL</h5>
-        <p className="card-text">A fun and interactive memory game where players flip cards in a grid to find matching pairs, designed to improve focus and recall.</p>
+        <p className="card-text">A simple CRM tool designed to manage leads efficiently—allowing users to add, update, and delete leads while tracking performance through a visual report dashboard powered by Chart.js.</p>
         <p className="card-text"><small className="text-body-secondary">Made With: MongoDB, Express, Reactjs, Nodejs, Redux-Toolkit, Bootstrap</small></p>
         <div className="d-flex gap-3 justify-content-center">
             <a href="https://github.com/NeerajNero/ProjectGestionando" className="btn btn-dark btn-lg"><span className="bi bi-github"></span> github</a>
