@@ -8,7 +8,7 @@ import Contact from '../pages/Contact'
 const NavBar = () => {
   return (
     <div>
-      <nav id="navbar-example2" className="navbar bg-body-primary px-3 mb-3 sticky-top d-flex justify-content-center py-4">
+      <nav id="navbar-example2" className="navbar sticky-top px-3 mb-3 py-4 d-flex justify-content-center backdrop-blur">
   <ul className="nav nav-pills">
     <li className="nav-item">
       <a className="nav-link" href="#home">Home</a>
